@@ -4,3 +4,5 @@
 maps/weather-48h-*/raw/
 maps/weather-48h-*/frames/
 __pycache__/
+
+AGENTS.md
