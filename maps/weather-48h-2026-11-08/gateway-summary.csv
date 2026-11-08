@@ -1,0 +1,25 @@
+gateway_id,gateway,source_status,samples,clear_samples,cloudy_samples,mixed_samples,unknown_samples,clear_estimated_hours,cloudy_estimated_hours,mixed_estimated_hours,unknown_estimated_hours,clear_sample_percent,clear_estimated_percent_48h
+G01,"Aerzen, Germany",operational,193,12,109,70,2,3.0,27.0,17.5,0.5,6.22,6.25
+G02,"Alfouvar de Cima, Portugal",operational,193,5,142,44,2,1.25,35.5,10.75,0.5,2.59,2.6
+G03,"Ballinspittle, Ireland",operational,193,0,36,155,2,0.0,8.75,38.75,0.5,0.0,0.0
+G05,"Chalfont Grove, UK",operational,193,25,114,52,2,6.25,28.5,12.75,0.5,12.95,13.02
+G06,"Covilhã, Portugal",operational,193,0,153,38,2,0.0,38.0,9.5,0.5,0.0,0.0
+G07,"Elfordstown, Ireland",operational,193,19,50,122,2,4.75,12.5,30.25,0.5,9.84,9.9
+G08,"Fawley, UK",operational,193,61,46,84,2,15.0,11.5,21.0,0.5,31.61,31.25
+G09,"Foggia, Italy",operational,193,0,120,71,2,0.0,30.0,17.5,0.5,0.0,0.0
+G10,"Goonhilly, UK",operational,193,7,62,122,2,1.75,15.25,30.5,0.5,3.63,3.65
+G12,"Hoofddorf, NL",operational,193,14,117,60,2,3.5,29.25,14.75,0.5,7.25,7.29
+G13,"Ibi, Spain",operational,193,0,122,69,2,0.0,30.25,17.25,0.5,0.0,0.0
+G14,"Isle of Man, UK",operational,193,10,131,50,2,2.5,32.75,12.25,0.5,5.18,5.21
+G15,"Kaunas, Lithuania",operational,193,31,88,72,2,7.75,22.0,17.75,0.5,16.06,16.15
+G16,"Lepe, Spain",operational,193,26,121,44,2,6.5,30.0,11.0,0.5,13.47,13.54
+G17,"Marsala, Italy",operational,193,103,54,34,2,25.5,13.5,8.5,0.5,53.37,53.12
+G18,"Milano, Italy",operational,193,23,157,11,2,5.5,39.25,2.75,0.5,11.92,11.46
+G19,"Morn Hill, UK",operational,193,17,93,81,2,4.25,23.25,20.0,0.5,8.81,8.85
+G20,"Muallim, Turkey",operational,193,27,118,46,2,6.5,29.5,11.5,0.5,13.99,13.54
+G21,"Usingen, Germany",operational,193,16,117,58,2,4.0,29.0,14.5,0.5,8.29,8.33
+G22,"Villarejo de Salvanes, Spain",operational,193,38,120,33,2,9.5,29.75,8.25,0.5,19.69,19.79
+G23,"Villenave-d'Ornon, France",operational,193,56,60,75,2,14.0,14.75,18.75,0.5,29.02,29.17
+G24,"Wherstead, UK",operational,193,30,130,31,2,7.5,32.25,7.75,0.5,15.54,15.62
+G25,"Wola Krobowska, Poland",operational,193,173,1,17,2,43.0,0.25,4.25,0.5,89.64,89.58
+G26,"Woodwalton, UK",operational,193,4,119,68,2,1.0,29.75,16.75,0.5,2.07,2.08

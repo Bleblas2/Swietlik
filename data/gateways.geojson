@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2683,
+          52.0489
+        ]
+      },
+      "properties": {
+        "name": "Aerzen, Germany",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25,
+          40.5167
+        ]
+      },
+      "properties": {
+        "name": "Alfouvar de Cima, Portugal",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5808,
+          51.6508
+        ]
+      },
+      "properties": {
+        "name": "Ballinspittle, Ireland",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.401694,
+          51.7058
+        ]
+      },
+      "properties": {
+        "name": "Bristol, UK",
+        "kind": "gateway",
+        "source_status": "planned",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5667,
+          51.6167
+        ]
+      },
+      "properties": {
+        "name": "Chalfont Grove, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5,
+          40.2833
+        ]
+      },
+      "properties": {
+        "name": "Covilhã, Portugal",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25,
+          52.0833
+        ]
+      },
+      "properties": {
+        "name": "Elfordstown, Ireland",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3333,
+          50.8167
+        ]
+      },
+      "properties": {
+        "name": "Fawley, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5444,
+          41.4621
+        ]
+      },
+      "properties": {
+        "name": "Foggia, Italy",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1825,
+          50.0502
+        ]
+      },
+      "properties": {
+        "name": "Goonhilly, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56,
+          51.42
+        ]
+      },
+      "properties": {
+        "name": "Hoo, UK",
+        "kind": "gateway",
+        "source_status": "planned",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.686589,
+          52.290758
+        ]
+      },
+      "properties": {
+        "name": "Hoofddorf, NL",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5726,
+          38.6264
+        ]
+      },
+      "properties": {
+        "name": "Ibi, Spain",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49728,
+          54.13909
+        ]
+      },
+      "properties": {
+        "name": "Isle of Man, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "name": "Kaunas, Lithuania",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2044,
+          37.2547
+        ]
+      },
+      "properties": {
+        "name": "Lepe, Spain",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4357,
+          37.7986
+        ]
+      },
+      "properties": {
+        "name": "Marsala, Italy",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      },
+      "properties": {
+        "name": "Milano, Italy",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2833,
+          51.0894
+        ]
+      },
+      "properties": {
+        "name": "Morn Hill, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05,
+          40.0333
+        ]
+      },
+      "properties": {
+        "name": "Muallim, Turkey",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5361,
+          50.3356
+        ]
+      },
+      "properties": {
+        "name": "Usingen, Germany",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2667,
+          40.1667
+        ]
+      },
+      "properties": {
+        "name": "Villarejo de Salvanes, Spain",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5544,
+          44.76
+        ]
+      },
+      "properties": {
+        "name": "Villenave-d'Ornon, France",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15,
+          52.0333
+        ]
+      },
+      "properties": {
+        "name": "Wherstead, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9165,
+          51.8626
+        ]
+      },
+      "properties": {
+        "name": "Wola Krobowska, Poland",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "User-reported gateway; village centre only. Replaces inconsistent community coordinates; exact antenna location unverified.",
+        "source": "https://www.geonames.org/767533/krobowska-wola.html",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2833,
+          52.4167
+        ]
+      },
+      "properties": {
+        "name": "Woodwalton, UK",
+        "kind": "gateway",
+        "source_status": "operational",
+        "verification": "unverified",
+        "precision": "approximate",
+        "note": "Community report; coordinates and current operation unverified",
+        "source": "https://github.com/juliensimon/starlink-viz/blob/master/data/ground-stations.json",
+        "marker-color": "#d97706",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

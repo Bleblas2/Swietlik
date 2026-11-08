@@ -1,0 +1,6 @@
+
+# Downloaded imagery and regenerable full-resolution animation frames.
+# Retained locally; CSVs, manifests, previews and final animations remain visible.
+maps/weather-48h-*/raw/
+maps/weather-48h-*/frames/
+__pycache__/

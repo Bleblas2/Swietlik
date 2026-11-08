@@ -1,0 +1,34 @@
+site_id,name,kind,source_status,clear_frames,cloudy_frames,mixed_frames,unknown_frames
+P01,London,pop,listed,0,13,0,0
+P02,Madrid,pop,listed,13,0,0,0
+P03,Frankfurt,pop,listed,13,0,0,0
+P04,Stockholm,pop,listed,13,0,0,0
+P05,Warsaw,pop,listed,13,0,0,0
+P06,Milan,pop,listed,11,0,2,0
+P07,Sofia,pop,listed,0,10,3,0
+G01,"Aerzen, Germany",gateway,operational,12,0,1,0
+G02,"Alfouvar de Cima, Portugal",gateway,operational,13,0,0,0
+G03,"Ballinspittle, Ireland",gateway,operational,0,13,0,0
+G04,"Bristol, UK",gateway,planned,0,13,0,0
+G05,"Chalfont Grove, UK",gateway,operational,0,13,0,0
+G06,"Covilhã, Portugal",gateway,operational,13,0,0,0
+G07,"Elfordstown, Ireland",gateway,operational,0,13,0,0
+G08,"Fawley, UK",gateway,operational,0,13,0,0
+G09,"Foggia, Italy",gateway,operational,1,0,12,0
+G10,"Goonhilly, UK",gateway,operational,0,13,0,0
+G11,"Hoo, UK",gateway,planned,0,13,0,0
+G12,"Hoofddorf, NL",gateway,operational,5,0,8,0
+G13,"Ibi, Spain",gateway,operational,0,5,8,0
+G14,"Isle of Man, UK",gateway,operational,0,11,2,0
+G15,"Kaunas, Lithuania",gateway,operational,0,12,1,0
+G16,"Lepe, Spain",gateway,operational,13,0,0,0
+G17,"Marsala, Italy",gateway,operational,0,13,0,0
+G18,"Milano, Italy",gateway,operational,11,0,2,0
+G19,"Morn Hill, UK",gateway,operational,0,13,0,0
+G20,"Muallim, Turkey",gateway,operational,0,13,0,0
+G21,"Usingen, Germany",gateway,operational,11,0,2,0
+G22,"Villarejo de Salvanes, Spain",gateway,operational,9,0,4,0
+G23,"Villenave-d'Ornon, France",gateway,operational,5,6,2,0
+G24,"Wherstead, UK",gateway,operational,0,13,0,0
+G25,"Wola Krobowska, Poland",gateway,operational,12,0,1,0
+G26,"Woodwalton, UK",gateway,operational,0,13,0,0

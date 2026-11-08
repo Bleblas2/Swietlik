@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "name": "London",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Telehouse - London (Docklands West)"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "name": "Madrid",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Digital Realty Madrid MAD3"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "name": "Frankfurt",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Digital Realty Frankfurt FRA1-27"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0686,
+          59.3293
+        ]
+      },
+      "properties": {
+        "name": "Stockholm",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Digital Realty Stockholm STO1-6"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "name": "Warsaw",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Equinix WA1 - Warsaw, Centrum LIM"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.4642
+        ]
+      },
+      "properties": {
+        "name": "Milan",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "Retelit Avalon 1"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3219,
+          42.6977
+        ]
+      },
+      "properties": {
+        "name": "Sofia",
+        "kind": "pop",
+        "precision": "city-level approximate",
+        "evidence": "AS14593 facility presence listed in PeeringDB; not an exhaustive PoP inventory",
+        "source": "https://www.peeringdb.com/net/18747",
+        "facilities": [
+          "TELEPOINT Sofia Centre"
+        ],
+        "marker-color": "#2563eb",
+        "marker-symbol": "circle"
+      }
+    }
+  ]
+}

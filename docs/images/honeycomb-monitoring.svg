@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Honeycomb monitoring layout with two rings around a central gateway</title>
+<desc id="desc">Nineteen adjoining hexagonal cells: one central site, six inner sites and twelve outer positions. The example warning sequence is W2 then W1 then central gateway C.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#c2410c"/></marker></defs>
+<rect width="1000" height="760" fill="white"/>
+<g font-family="Arial, sans-serif" text-anchor="middle"><text x="500" y="43" font-size="25" font-weight="bold" fill="#0f172a">Honeycomb monitoring cluster</text><text x="500" y="75" font-size="15" fill="#475569">Two rings of neighbouring cells around the central gateway</text>
+<polygon points="448.04,190.00 396.08,220.00 344.12,190.00 344.12,130.00 396.08,100.00 448.04,130.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="396.08" y="156.00" font-size="21" font-weight="bold" fill="#0f172a">NW2</text><text x="396.08" y="180.00" font-size="11" fill="#475569">Outer gateway</text>
+<polygon points="551.96,190.00 500.00,220.00 448.04,190.00 448.04,130.00 500.00,100.00 551.96,130.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="500.00" y="156.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="500.00" y="180.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="655.88,190.00 603.92,220.00 551.96,190.00 551.96,130.00 603.92,100.00 655.88,130.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="603.92" y="156.00" font-size="21" font-weight="bold" fill="#0f172a">NE2</text><text x="603.92" y="180.00" font-size="11" fill="#475569">Outer gateway</text>
+<polygon points="396.08,280.00 344.12,310.00 292.15,280.00 292.15,220.00 344.12,190.00 396.08,220.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="344.12" y="246.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="344.12" y="270.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="500.00,280.00 448.04,310.00 396.08,280.00 396.08,220.00 448.04,190.00 500.00,220.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="448.04" y="246.00" font-size="21" font-weight="bold" fill="#0f172a">NW1</text><text x="448.04" y="270.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="603.92,280.00 551.96,310.00 500.00,280.00 500.00,220.00 551.96,190.00 603.92,220.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="551.96" y="246.00" font-size="21" font-weight="bold" fill="#0f172a">NE1</text><text x="551.96" y="270.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="707.85,280.00 655.88,310.00 603.92,280.00 603.92,220.00 655.88,190.00 707.85,220.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="655.88" y="246.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="655.88" y="270.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="344.12,370.00 292.15,400.00 240.19,370.00 240.19,310.00 292.15,280.00 344.12,310.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="292.15" y="336.00" font-size="21" font-weight="bold" fill="#0f172a">W2</text><text x="292.15" y="360.00" font-size="11" fill="#475569">Outer gateway</text>
+<polygon points="448.04,370.00 396.08,400.00 344.12,370.00 344.12,310.00 396.08,280.00 448.04,310.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="396.08" y="336.00" font-size="21" font-weight="bold" fill="#0f172a">W1</text><text x="396.08" y="360.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="551.96,370.00 500.00,400.00 448.04,370.00 448.04,310.00 500.00,280.00 551.96,310.00" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="500.00" y="336.00" font-size="21" font-weight="bold" fill="#0f172a">C</text><text x="500.00" y="360.00" font-size="11" fill="#475569">Central gateway</text>
+<polygon points="655.88,370.00 603.92,400.00 551.96,370.00 551.96,310.00 603.92,280.00 655.88,310.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="603.92" y="336.00" font-size="21" font-weight="bold" fill="#0f172a">E1</text><text x="603.92" y="360.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="759.81,370.00 707.85,400.00 655.88,370.00 655.88,310.00 707.85,280.00 759.81,310.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="707.85" y="336.00" font-size="21" font-weight="bold" fill="#0f172a">E2</text><text x="707.85" y="360.00" font-size="11" fill="#475569">Outer gateway</text>
+<polygon points="396.08,460.00 344.12,490.00 292.15,460.00 292.15,400.00 344.12,370.00 396.08,400.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="344.12" y="426.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="344.12" y="450.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="500.00,460.00 448.04,490.00 396.08,460.00 396.08,400.00 448.04,370.00 500.00,400.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="448.04" y="426.00" font-size="21" font-weight="bold" fill="#0f172a">SW1</text><text x="448.04" y="450.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="603.92,460.00 551.96,490.00 500.00,460.00 500.00,400.00 551.96,370.00 603.92,400.00" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<text x="551.96" y="426.00" font-size="21" font-weight="bold" fill="#0f172a">SE1</text><text x="551.96" y="450.00" font-size="11" fill="#475569">Inner gateway</text>
+<polygon points="707.85,460.00 655.88,490.00 603.92,460.00 603.92,400.00 655.88,370.00 707.85,400.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="655.88" y="426.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="655.88" y="450.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="448.04,550.00 396.08,580.00 344.12,550.00 344.12,490.00 396.08,460.00 448.04,490.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="396.08" y="516.00" font-size="21" font-weight="bold" fill="#0f172a">SW2</text><text x="396.08" y="540.00" font-size="11" fill="#475569">Outer gateway</text>
+<polygon points="551.96,550.00 500.00,580.00 448.04,550.00 448.04,490.00 500.00,460.00 551.96,490.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="500.00" y="516.00" font-size="21" font-weight="bold" fill="#0f172a">Outer</text><text x="500.00" y="540.00" font-size="11" fill="#475569">Extra position</text>
+<polygon points="655.88,550.00 603.92,580.00 551.96,550.00 551.96,490.00 603.92,460.00 655.88,490.00" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+<text x="603.92" y="516.00" font-size="21" font-weight="bold" fill="#0f172a">SE2</text><text x="603.92" y="540.00" font-size="11" fill="#475569">Outer gateway</text>
+<path d="M324.15,340.0 H364.08" stroke="#c2410c" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M428.08,340.0 H468.00" stroke="#c2410c" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="500" y="610" font-size="18" font-weight="bold" fill="#c2410c">Example: W2 fades first, then W1. Raise the cost at C before an outage.</text>
+<text x="500" y="644" font-size="14" fill="#475569">1 = inner site; 2 = farther site on the same direction. Other directions use the same logic.</text>
+<text x="500" y="673" font-size="14" fill="#475569">Cells show a proposed monitoring pattern, not actual gateway positions or radio paths.</text>
+<text x="500" y="702" font-size="14" fill="#475569">19 cells illustrate two complete rings. The final number of sites is still to be designed.</text>
+</g></svg>

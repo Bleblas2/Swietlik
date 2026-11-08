@@ -1,0 +1,225 @@
+{
+  "retrieved_date": "2026-11-08",
+  "bbox_crs84": [
+    -12,
+    35,
+    41,
+    61
+  ],
+  "size": [
+    1400,
+    1020
+  ],
+  "attribution": "Contains modified EUMETSAT data \u00a9 EUMETSAT 2026",
+  "time_note": "Requested quarter-hour slots; WMS advertises nearestValue=1. Exact source acquisition times have not been independently verified.",
+  "frames": [
+    {
+      "requested_time_utc": "2026-11-05T08:45:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T08%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0845Z-rgb.png",
+      "sha256": "adf3595e94ad21e580d6cd07216dad16a39ee3c8a004b3a2279c5e418d19ad9e"
+    },
+    {
+      "requested_time_utc": "2026-11-05T08:45:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T08%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0845Z-mask.png",
+      "sha256": "08f63e9f692192c10c16905f7597758c8b472d8e48ae97a39ceb1a2edc21b1cc"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:00:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0900Z-rgb.png",
+      "sha256": "8cda3ee82076ca8d7057bbb53303a4b6ab554005035d5e513a336b02906d1718"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:00:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0900Z-mask.png",
+      "sha256": "7509a4cee4bcb3f33f007e3ca08cbe8b48d00967375652d4ca8c1bf9241dad6f"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:15:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0915Z-rgb.png",
+      "sha256": "26e6da33fa8a90bf06377fe59f5becce67d4572232eb3681848c1742ec8fb606"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:15:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0915Z-mask.png",
+      "sha256": "ca8bea98681a1b4814675cc42d37b503f0d0bfec87f4f54803473c4f85b695c1"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:30:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0930Z-rgb.png",
+      "sha256": "76f58fd257346ea5becaaaf8dda3aa0a6cf0784815237123662df52a8dcfa15c"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:30:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0930Z-mask.png",
+      "sha256": "100d3658233b77c66f64c83a434419b64a275803b0385f711d1f4ef1f7c55d52"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:45:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0945Z-rgb.png",
+      "sha256": "46d9ee78a95035420895886f3204db0aff7a4c090689b6e170c2ed9aabefeb0c"
+    },
+    {
+      "requested_time_utc": "2026-11-05T09:45:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T09%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T0945Z-mask.png",
+      "sha256": "8e326bb82e3377bad7f95b96fb3bc15a24cb88d4b7633e95cf1455feb3b606cb"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:00:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1000Z-rgb.png",
+      "sha256": "262bd70bf3d5d62113a7b302c76fad95f6b6335cb29155e9e36a7c4e7e0b7114"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:00:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1000Z-mask.png",
+      "sha256": "8d64cd2f6017e152bdac23a79fb32faad55027404abff51d27d60af6fafd05d9"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:15:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1015Z-rgb.png",
+      "sha256": "3eae40fa7dff7d1b3f2dec348e00826ed96b882332b7dbd340b8d9ba1d2cda7e"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:15:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1015Z-mask.png",
+      "sha256": "f33225633955822df31c1d7af5c02de75033c0572188bbd8df45d1670908b693"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:30:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1030Z-rgb.png",
+      "sha256": "db7b0cc930cb9ea9362a214258b2b048095a9a2f4ebb80dc5c928f21903be072"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:30:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1030Z-mask.png",
+      "sha256": "52ccda0e8a190398af6b828378e4039aaab5b567521bdd29b5609618c0a8ad35"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:45:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1045Z-rgb.png",
+      "sha256": "38e555830786739b3e5844f2fc9c639cadab5ed9f9a73521d577f200b8e1ce2c"
+    },
+    {
+      "requested_time_utc": "2026-11-05T10:45:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T10%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1045Z-mask.png",
+      "sha256": "83a87014001d5f2774ecef45c1afc54460550851604ce66eb585cf8ff567017d"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:00:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1100Z-rgb.png",
+      "sha256": "109768c68933c8a9be7a0a9365b661208265ee29e5ae4aedb10e75c640e689a8"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:00:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A00%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1100Z-mask.png",
+      "sha256": "865c91a30e24c4d8533d0109c0d8bb1f91006e4215a78156a1fad9f763b605be"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:15:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1115Z-rgb.png",
+      "sha256": "d008bead02f3cf4e82b59757ecd8fb9dab0da911481a3f6a211f85c0d99a6186"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:15:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A15%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1115Z-mask.png",
+      "sha256": "b3de383e6f127cb602377ba0267a1dfdce9946c74f7cb71e74a2b50e1cc380f6"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:30:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1130Z-rgb.png",
+      "sha256": "24f3bb182cbaa1e61f49f8b743d0082b5d232a62b3cbae2fd87de5ef20b430b9"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:30:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A30%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1130Z-mask.png",
+      "sha256": "af96a3894e8df28ee9fe4711c685d1a16bf10f37ed4ca4457a6bb50962b7b390"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:45:00Z",
+      "kind": "rgb",
+      "layer": "msg_fes:rgb_natural",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Argb_natural&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1145Z-rgb.png",
+      "sha256": "e83d1984668328d86ef4429c2a498fa734ee989818ea5f535f2a97bd43180916"
+    },
+    {
+      "requested_time_utc": "2026-11-05T11:45:00Z",
+      "kind": "mask",
+      "layer": "msg_fes:clm",
+      "url": "https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers=msg_fes%3Aclm&styles=&crs=CRS%3A84&bbox=-12%2C35%2C41%2C61&width=1400&height=1020&format=image%2Fpng&time=2026-11-05T11%3A45%3A00Z&transparent=false&interpolations=nearest+neighbor",
+      "file": "raw/20261105T1145Z-mask.png",
+      "sha256": "fb03a4801d393715118b7f0c52105f31023e06addef7976516244dd839989480"
+    }
+  ]
+}

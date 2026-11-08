@@ -1,0 +1,22 @@
+{
+  "start_utc": "2026-11-06T19:15:00Z",
+  "end_utc": "2026-11-08T19:15:00Z",
+  "start_poland": "2026-11-06T20:15:00+01:00",
+  "end_poland": "2026-11-08T20:15:00+01:00",
+  "duration_hours": 48.0,
+  "samples": 193,
+  "gateways": 24,
+  "records": 4632,
+  "min_clear_gateways": 0,
+  "max_clear_gateways": 9,
+  "samples_without_any_clear_gateway": 2,
+  "samples_fully_unknown": 2,
+  "samples_without_clear_and_complete_data": 0,
+  "min_clear_with_complete_data": 1,
+  "max_clear_with_complete_data": 9,
+  "missing_mask_frames": 0,
+  "ambiguous_mask_frames": 2,
+  "missing_infrared_frames": 0,
+  "clear_hours_method": "15-minute left-endpoint sample hold over 192 intervals; illustrative estimate, not continuous observation",
+  "all_clear_hours_any_gateway_estimate": 47.5
+}
