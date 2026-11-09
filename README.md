@@ -20,7 +20,7 @@ Starlink already uses optical inter-satellite links; its [technology overview](h
 
 My first estimate was that a radio link might deliver around **0.6-1.2 Gbps**, based on experience with terrestrial microwave equipment. That number is **not a verified Starlink feeder-link specification or a physical limit of radio**. Throughput depends on channel bandwidth, signal-to-noise ratio, modulation, coding, polarisation, spatial reuse and the number of simultaneous links.
 
-Based on [this Canadian ISED notice](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/notice-request-received-spacex-canada-corp-use-e-band-frequencies-canada), the gateway radio bands are around 17.8-19.3 GHz from satellite to ground and 27.5-30 GHz in the return direction, from ground to satellite. It also documents a request for E-band feeder links at 71-76 GHz downlink and 81-86 GHz uplink. Radio feeder technology is also improving. I would need to compare optical links with suitable radio alternatives.
+Based on [this Canadian ISED notice](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/notice-request-received-spacex-canada-corp-use-e-band-frequencies-canada), the gateway radio bands are around 17.8-19.3 GHz from satellite to ground and 27.5-30 GHz in the return direction, from ground to satellite. It also documents a request for E-band feeder links at 71-76 GHz downlink and 81-86 GHz uplink. I also note that [this Starlink case study](https://starlink.com/pl/business/case-studies/cnt-ep) reports up to 10 Gbps symmetric throughput for a Bonded Gateway solution.
 
 ## Why laser communication is worth pursuing
 
